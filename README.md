@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vs5osb56w6c8gndj/branch/main?svg=true)](https://ci.appveyor.com/project/Nataliya2020/homework-ajs-16-symbols-iterators-generators-2/branch/main)
